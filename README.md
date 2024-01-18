@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Sean
+### Hi there 👋 my name is Sean!
 
 <!--
 **seanlouie24/seanlouie24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
