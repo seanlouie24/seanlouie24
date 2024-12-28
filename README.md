@@ -8,7 +8,7 @@
 
 ## Top Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seanlouie24&layout=compact&hide=html)
 
 
 <!--
