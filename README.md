@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdlouie24@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-louie-8a4a00298/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://sean.dev)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://seanlouie24.github.io/SeanLouie/)
 ## Top Languages Used
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seanlouie24&layout=compact&hide=html)
