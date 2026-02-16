@@ -8,7 +8,7 @@
 
 Currently Working on:
 <br>
-[Safeguard Solutions Integrated Management System Documentation](file:///Users/sean/Downloads/ProjectProposal.pdf)
+Safeguard Solutions Integrated Management System
 <br>
 
 Past Projects:
