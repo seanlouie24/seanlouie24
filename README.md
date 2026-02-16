@@ -8,10 +8,11 @@
 
 Currently Working on:
 <br>
-[Snap2Macros](https://snap2macros.vercel.app/)
 <br>
 
 Past Projects:
+<br>
+[Predictive Traffic Monitor](https://github.com/TelusHackathon2026/rainCity)
 <br>
 [RepIt](https://repitapp.vercel.app/)
 <br>
