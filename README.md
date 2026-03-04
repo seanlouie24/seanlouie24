@@ -13,7 +13,11 @@ Safeguard Solutions Integrated Management System
 
 Past Projects:
 <br>
-[Viper Protection](https://github.com/MountainM2026/ViperProtection): 2026 Mountain Madness Best Overall Hack and Best use of DigitalOcean Winner
+[Viper Protection](https://github.com/MountainM2026/ViperProtection)
+<br>
+<ul>
+  <li>2026 Mountain Madness Best Overall Hack and Best use of DigitalOcean Winner</li>
+</ul>
 <br>
 [Predictive Traffic Monitor](https://github.com/TelusHackathon2026/rainCity)
 <br>
