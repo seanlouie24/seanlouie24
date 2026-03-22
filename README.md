@@ -13,6 +13,8 @@ Safeguard Solutions Integrated Management System
 
 Past Projects:
 <br>
+[Tenkai](https://github.com/seanlouie24/Finance-RAG)
+<br>
 [Viper Protection](https://github.com/MountainM2026/ViperProtection)
 2026 Mountain Madness Best Overall Hack and Best use of DigitalOcean Winner
 <br>
