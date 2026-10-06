@@ -6,12 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-louie-8a4a00298/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://seanlouie24.github.io/SeanLouie/)
 
-Currently Working on:
-<br>
-Safeguard Solutions Integrated Management System
-<br>
-
 Past Projects:
+<br>
+[Hive](https://github.com/StormHacks2026Hive/Hive)
 <br>
 [Tenkai](https://github.com/seanlouie24/Finance-RAG)
 <br>
